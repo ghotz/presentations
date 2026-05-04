@@ -6,12 +6,14 @@ Please link **only** to event **subdirectories**, not to individual files, to av
 
 Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 
-**96** events, **112** talks, **22** series, **18** cities, **23** years (2002--2026).
+**98** events, **114** talks, **22** series, **18** cities, **23** years (2002--2026).
 
 ## By year
 
 ### 2026
 
+- **2026-04-18** [Global Azure Pordenone 2026](2025-2029/2026/global-azure-pordenone-2026/)
+- **2026-04-16** [Global Azure Milano ASP Italia 2026](2025-2029/2026/global-azure-milano-asp-italia-2026/)
 - **2026-02-28** [Data Saturday 80 Pordenone 2026](2025-2029/2026/data-saturday-80-pordenone-2026/)
 
 ### 2025
@@ -71,8 +73,8 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 - **2019-06-14** [PASS Modern Migration Tour 2019](2015-2019/2019/pass-modern-migration-tour-2019/)
 - **2019-05-25** [XE One Day - Enterprise Applications](2015-2019/2019/xe-one-day-enterprise-applications/)
 - **2019-05-18** [SQL Saturday 871 Sardegna 2019](2015-2019/2019/sql-saturday-871-sardegna-2019/)
-- **2019-04-27** [Global Azure Bootcamp Milano 2019](2015-2019/2019/global-azure-bootcamp-milano-2019/)
 - **2019-04-27** [Global Azure Bootcamp Verona 2019](2015-2019/2019/global-azure-bootcamp-verona-2019/)
+- **2019-04-27** [Global Azure Bootcamp Milano 2019](2015-2019/2019/global-azure-bootcamp-milano-2019/)
 - **2019-04-06** [SQL Start 2019](2015-2019/2019/sql-start-2019/)
 - **2019-02-23** [SQL Saturday 829 Pordenone 2019](2015-2019/2019/sql-saturday-829-pordenone-2019/)
 
@@ -230,6 +232,8 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 
 ### Global Azure
 
+- **2026-04-18** [Global Azure Pordenone 2026](2025-2029/2026/global-azure-pordenone-2026/)
+- **2026-04-16** [Global Azure Milano ASP Italia 2026](2025-2029/2026/global-azure-milano-asp-italia-2026/)
 - **2019-04-27** [Global Azure Bootcamp Verona 2019](2015-2019/2019/global-azure-bootcamp-verona-2019/)
 - **2019-04-27** [Global Azure Bootcamp Milano 2019](2015-2019/2019/global-azure-bootcamp-milano-2019/)
 - **2018-04-21** [Global Azure Bootcamp Verona 2018](2015-2019/2018/global-azure-bootcamp-verona-2018/)

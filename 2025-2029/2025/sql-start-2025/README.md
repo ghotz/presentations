@@ -6,9 +6,13 @@
 ## Fondamenti di SQL Server - concorrenza, locking e isolamento
 
 - Slideshare: <https://www.slideshare.net/slideshow/fondamenti-di-sql-server-concorrenza-locking-e-isolamento-ed45/286376242>
+- Youtube: <https://youtu.be/gpTXvTwO3d0>
+- Vimeo: <https://vimeo.com/ugiss/fondamentitxci>
 - Sessionize: <https://sessionize.com/s/ghotz/fondamenti-di-sql-server-concorrenza-locking-e-iso/140262>
 
 ## Fondamenti di SQL Server - metodi di accesso ai dati
 
 - Slideshare: <https://www.slideshare.net/slideshow/fondamenti-di-sql-server-metodi-di-accesso-ai-dati/286376265>
+- Youtube: <https://youtu.be/5nJHQketExo>
+- Vimeo: <https://vimeo.com/ugiss/fondamentiaccesso>
 - Sessionize: <https://sessionize.com/s/ghotz/fondamenti-di-sql-server-metodi-di-accesso-ai-dati/140260>

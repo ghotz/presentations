@@ -1,41 +1,51 @@
 Presentation,Views,Downloads,Favorites,Comments,Email Shares
-Multitenancy con SQL Server e Azure SQL Database,4,0,0,0,0
-Multitenancy con SQL Server e Azure SQL Database,4,0,0,0,0
-Microsoft SQL Server PaaS (Platform as a Service),10,0,0,0,0
-SQL Server 2022 Programmability & Performance,236,0,1,0,0
+Microsoft Azure SQL Database: Essentials,0,0,0,0,0
+Azure SQL Database per dev: tutte le novità da non perdere,0,0,0,0,0
+SQL Server 2025 - amministrazione e prestazioni,3,0,0,0,0
+SQL Server 2025 - amministrazione e prestazioni,2,0,0,0,0
+Data Virtualization con Azure SQL Database,1,0,0,0,0
+Fondamenti di SQL Server - metodi di accesso ai dati,2,0,0,0,0
+"Fondamenti di SQL Server - concorrenza, locking e isolamento",0,0,0,0,0
+Database temporali con SQL Server (XE SQL Night),1,0,0,0,0
+Fondamenti sulla Sicurezza in SQL Server,3,0,0,0,0
+Azure SQL Database Fleet Manager (Preview),10,0,0,0,0
+Multitenancy con SQL Server e Azure SQL Database,8,0,0,0,0
+Multitenancy con SQL Server e Azure SQL Database,2,0,0,0,0
+Microsoft SQL Server PaaS (Platform as a Service),9,0,0,0,0
+SQL Server 2022 Programmability & Performance,237,0,1,0,0
 SQL Server 2022 Intelligent Query Processing,9,0,0,0,0
-Le novità di SQL Server 2022,29,0,0,0,0
-IaaS and PaaS relational databases in the cloud,3,0,0,0,0
-Data Integrity with SQL Database Ledger,13,0,0,0,0
-Azure SQL Database Ledger,10,0,0,0,0
-Come utilizzare AWS DMS per migrare SQL Server ad Amazon Aurora,5,0,0,0,0
-Best Practices for Running Microsoft SQL Server on AWS,24,0,0,0,0
-SQL Server in AWS,10,0,0,0,0
-Come utilizzare AWS Database Migration Service per migrare SQL Server ad Amazon RDS,6,0,0,0,0
+Le novità di SQL Server 2022,37,0,0,0,0
+IaaS and PaaS relational databases in the cloud,7,0,0,0,0
+Data Integrity with SQL Database Ledger,11,0,0,0,0
 Azure SQL Database Ledger,4,0,0,0,0
-SQL Server Modern Query Processing,5,0,0,0,0
-SQL Server in AWS,3,0,0,0,0
-SQL Server Failover Cluster Instances con Azure Managed Disks,4,0,0,0,0
-SQL Server Back to Basics: Sicurezza,4,0,0,0,0
-SQL Server Failover Cluster Instances con Amazon FSx in AWS,3,0,0,0,0
-SQL Server Data Virtualization with polybase,7,0,0,0,0
-SQL Server Data Virtualization with Polybase,18,0,0,0,0
+Come utilizzare AWS DMS per migrare SQL Server ad Amazon Aurora,10,0,0,0,0
+Best Practices for Running Microsoft SQL Server on AWS,31,0,0,0,0
+SQL Server in AWS,5,0,0,0,0
+Come utilizzare AWS Database Migration Service per migrare SQL Server ad Amazon RDS,4,0,0,0,0
+Azure SQL Database Ledger,2,0,0,0,0
 SQL Server Modern Query Processing,4,0,0,0,0
-SQL Server Modernization,25,0,0,0,0
+SQL Server in AWS,2,0,0,0,0
+SQL Server Failover Cluster Instances con Azure Managed Disks,4,0,0,0,0
+SQL Server Back to Basics: Sicurezza,3,0,0,0,0
+SQL Server Failover Cluster Instances con Amazon FSx in AWS,3,0,0,0,0
+SQL Server Data Virtualization with polybase,8,0,0,0,0
+SQL Server Data Virtualization with Polybase,18,0,0,0,0
+SQL Server Modern Query Processing,2,0,0,0,0
+SQL Server Modernization,18,0,0,0,0
 Azure sql database,6,0,0,0,0
-Le novità di sql server 2019,9,0,1,0,0
-SQL Server Workload Profiling,3,0,1,0,0
-SQL Server 2019 CTP 2.5,10,0,1,0,0
-Azure PaaS databases,4,0,0,0,0
+Le novità di sql server 2019,6,0,1,0,0
+SQL Server Workload Profiling,5,0,1,0,0
+SQL Server 2019 CTP 2.5,7,0,1,0,0
+Azure PaaS databases,2,0,0,0,0
 Azure PaaS databases,4,0,1,0,0
-Mettere in sicurezza ambienti sql server,6,0,0,0,0
-SQL Server 2019 CTP2.4,15,0,1,0,0
+Mettere in sicurezza ambienti sql server,5,0,0,0,0
+SQL Server 2019 CTP2.4,16,0,1,0,0
 SQL Server 2019 ctp2.2,17,0,2,0,0
-SQL Server Modernization,15,0,0,0,0
-Always on in sql server 2017,203,0,3,0,0
+SQL Server Modernization,17,0,0,0,0
+Always on in sql server 2017,169,0,3,0,0
 Azure PaaS databases,7,0,1,0,0
-Best Practices on SQL Server,28,0,1,0,0
-Novità di SQL Server 2017,7,0,0,0,0
+Best Practices on SQL Server,8,0,1,0,0
+Novità di SQL Server 2017,6,0,0,0,0
 SQL Server & GDPR,25,0,0,0,0
 RDBMS: pregi e difetti,11,0,0,0,0
-SQL Server database engine 2017 enhancements,13,0,1,0,0
+SQL Server database engine 2017 enhancements,14,0,1,0,0
