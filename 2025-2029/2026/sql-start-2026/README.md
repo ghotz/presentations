@@ -5,6 +5,6 @@
 
 ## Azure SQL Database per dev: tutte le novità da non perdere
 
-- Youtube: <https://www.youtube.com/watch?v=FMxIQb3JWyw>
-- Vimeo: <https://vimeo.com/ugiss/azuresqldevss2026>
+- Youtube: <https://www.youtube.com/watch?v=FMxIQb3JWyw> (not yet public!)
+- Vimeo: <https://vimeo.com/ugiss/azuresqldevss2026> (not yet public!)
 - Sessionize: <https://sessionize.com/s/ghotz/azure-sql-database-per-dev-tutte-le-novita-da-non-/185792>
