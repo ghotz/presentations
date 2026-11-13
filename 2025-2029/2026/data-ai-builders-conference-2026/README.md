@@ -5,5 +5,6 @@
 
 ## SQL Server as a Polyglot Platform: Data, Embeddings, and Hybrid Search
 
-- Youtube: <https://www.youtube.com/watch?v=OlkHeYGPStg>
+- Youtube: <https://www.youtube.com/watch?v=OlkHeYGPStg> (not yet public!)
+- Vimeo: <https://vimeo.com/ugiss/polyglot> (not yet public!)
 - Sessionize: <https://sessionize.com/s/ghotz/sql-server-come-piattaforma-poliglotta-dati-embedd/179092>
