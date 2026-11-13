@@ -6,12 +6,16 @@ Please link **only** to event **subdirectories**, not to individual files, to av
 
 Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 
-**98** events, **114** talks, **22** series, **18** cities, **23** years (2002--2026).
+**102** events, **118** talks, **24** series, **19** cities, **23** years (2002--2026).
 
 ## By year
 
 ### 2026
 
+- **2026-11-07** [Data & AI Builders Conference 2026](2025-2029/2026/data-ai-builders-conference-2026/)
+- **2026-09-18** [SQL Start 2026](2025-2029/2026/sql-start-2026/)
+- **2026-06-24** [AperiTeams Conference 2026](2025-2029/2026/aperiteams-conference-2026/)
+- **2026-05-22** [XE One Day 2026](2025-2029/2026/xe-one-day-2026/)
 - **2026-04-18** [Global Azure Pordenone 2026](2025-2029/2026/global-azure-pordenone-2026/)
 - **2026-04-16** [Global Azure Milano ASP Italia 2026](2025-2029/2026/global-azure-milano-asp-italia-2026/)
 - **2026-02-28** [Data Saturday 80 Pordenone 2026](2025-2029/2026/data-saturday-80-pordenone-2026/)
@@ -185,6 +189,10 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 - **2016-09-17** [SQL Tuning Saturday](2015-2019/2016/sql-tuning-saturday/)
 - **2012-04-17** [Seminario 1nn0va 2012-04](2010-2014/2012/seminario-1nn0va-2012-04/)
 
+### AperiTeams
+
+- **2026-06-24** [AperiTeams Conference 2026](2025-2029/2026/aperiteams-conference-2026/)
+
 ### AWS Online Tech Talks
 
 - **2021-11-17** [AWS Online Tech Talks 2021-11](2020-2024/2021/aws-online-tech-talks-2021-11/)
@@ -213,6 +221,10 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 ### DAMAG Meetup
 
 - **2019-09-16** [DAMAG Meetup 2019-09](2015-2019/2019/damag-meetup-2019-09/)
+
+### Data & AI Builders
+
+- **2026-11-07** [Data & AI Builders Conference 2026](2025-2029/2026/data-ai-builders-conference-2026/)
 
 ### Data Saturday
 
@@ -299,6 +311,7 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 
 ### SQL Start
 
+- **2026-09-18** [SQL Start 2026](2025-2029/2026/sql-start-2026/)
 - **2025-06-13** [SQL Start 2025](2025-2029/2025/sql-start-2025/)
 - **2023-06-16** [SQL Start 2023](2020-2024/2023/sql-start-2023/)
 - **2022-06-10** [SQL Start 2022](2020-2024/2022/sql-start-2022/)
@@ -338,6 +351,7 @@ Event folders are generated from `_meta/events.csv` and `_meta/talks.csv`.
 
 ### XE Events
 
+- **2026-05-22** [XE One Day 2026](2025-2029/2026/xe-one-day-2026/)
 - **2025-05-23** [XE SQL Night 2025](2025-2029/2025/xe-sql-night-2025/)
 - **2019-05-25** [XE One Day - Enterprise Applications](2015-2019/2019/xe-one-day-enterprise-applications/)
 - **2018-09-15** [XE One Day - Good Code](2015-2019/2018/xe-one-day-good-code/)
